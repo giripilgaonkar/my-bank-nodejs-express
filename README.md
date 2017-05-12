@@ -1,2 +1,4 @@
 # my-bank-nodejs-express
-my-bank-nodejs-express-project
+
+Created a sample banking app using nodejs with express and rendered using jade
+
