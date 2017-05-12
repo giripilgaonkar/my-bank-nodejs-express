@@ -1,0 +1,24 @@
+module.exports={
+"10":{
+	"number":10,
+	"name":"Girish",
+	"amount":1000
+},
+"20":{
+	"number":20,
+	"name":"Erwin",
+	"amount":2000
+}
+,
+"30":{
+	"number":30,
+	"name":"Erwin",
+	"amount":2000
+}
+,
+"40":{
+	"number":40,
+	"name":"HI",
+	"amount":2000
+}
+};
